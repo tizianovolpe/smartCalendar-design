@@ -1,0 +1,83 @@
+ISTRUZIONI DI STAMPA ADOBE INDESIGN DESTINATE AL SERVICE DI STAMPA
+
+NOME PUBBLICAZIONE: Template design.indd
+
+DATA PREPARAZIONE PACCHETTO: 12/01/18 21:22
+Data di creazione: 12/01/18
+Data di modifica: 12/01/18
+
+INFORMAZIONI DI CONTATTO
+
+Nome società: 
+Contatto: 
+Indirizzo: 
+
+
+
+
+
+Telefono: 
+Fax: 
+E-mail: 
+
+ISTRUZIONI SPECIALI E ALTRE INDICAZIONI
+
+
+
+
+
+
+Plug-in esterni 0
+Oggetti non opachi: A pagina, A
+
+FONT
+2 font usati; 0 mancanti, 0 incorporati, 0 incompleti, 0 protetti
+
+Font inclusi nel pacchetto
+- Nome: HKGrotesk-Bold; Tipo: OpenType Type 1, Stato: OK
+- Nome: HKGrotesk-Light; Tipo: OpenType Type 1, Stato: OK
+
+
+COLORI E INCHIOSTRI
+2 inchiostri di quadricromia; 0 inchiostri tinta piatta
+
+- Nome e tipo: Cyan quadricromia; Angolo: 75,000; Linee/pollice: 70,000
+- Nome e tipo: Nero quadricromia; Angolo: 45,000; Linee/pollice: 70,000
+
+
+COLLEGAMENTI E IMMAGINI
+(Solo collegamenti mancanti e incorporati)
+Collegamenti e immagini: 0 collegamenti trovati; 0 modificati, 0 mancanti 0 Non accessibile
+Immagini: 0 incorporati, 0 usano spazio cromatico RGB
+
+IMPOSTAZIONI DI STAMPA
+PPD: Indipendente dal dispositivo, (File PostScript®)
+Stampa in corso su: File di prestampa
+Numero di copie: 1
+Pagine affiancate: No
+Pagine pari/dispari: Entrambe
+Pagine: Tutte
+Prova di stampa: No
+Divisione in porzioni: Nessuno
+Scala: 100%, 100%
+Posizione pagina: In alto a sinistra
+Stampa livelli: Livelli visibili e stampabili
+Segni di stampa: Nessuno
+Pagina al vivo: 0 mm, 0 mm, 0 mm, 0 mm
+Colore: CMYK composito
+Modalità abbondanza: Nessuno
+Invia dati immagine: Tutte
+Sostituzione immagini OPI/DCS: No
+Dimensioni pagina: Personalizzate: 150 mm x 450 mm
+Dimensioni carta: 0 mm x 0 mm
+Orientamento: Verticale
+Negativo: No
+Modalità riflessione: Disattivato
+
+
+ELENCO DEI FILE DEL PACCHETTO
+
+1. Template design.indd; tipo: Pubblicazione Adobe InDesign; dimensione: 1428K
+2. Template design.idml; tipo: Documento InDesign Markup; dimensione: 73K
+3. HKGrotesk-Bold.otf; tipo: Font; dimensione: 81K
+4. HKGrotesk-Light.otf; tipo: Font; dimensione: 82K
